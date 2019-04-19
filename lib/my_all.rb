@@ -9,8 +9,8 @@ def my_all?(collection)
   end
   
   if block_return_values.include?(false)
-    fase
+    false 
   else
-    TRUE
+    true 
   end
 end
